@@ -1,5 +1,5 @@
 ﻿Very basic implementation of weenie templating.
 
-Adds `template` command:
+Adds the command command:
 
-`<wcid> <# templates to export> <start of range>`
+`template <wcid> <# templates to export> <start of range>`
